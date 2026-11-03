@@ -1,23 +1,27 @@
 {
-  "version": "v105",
-  "QA_version": "v075",
-  "name_count": 360103,
-  "sha256": "fb688b4c9c933dfdd3689cbc5d33ecf573beb7d33ff348b3343164c651228ae0",
+  "version": "v106",
+  "date": "2026-11-03",
+  "QA_version": "v076",
+  "name_count": 360098,
+  "sha256": "33fe609864c88f816b8c9627507e66749c6ae1d90486a2fbc1d1c95620bb28ed",
   "encoding": "UTF-8 without BOM",
   "newline": "CRLF",
-  "repository_base_commit": "7552ed6a62431aa9327e4d74a58bf66717c6f5e6",
-  "repository_base_blob": "58b0a759ce965b4160c1d622266891a8b84fd32f",
-  "added_vs_repository": 611,
-  "removed_vs_repository": 1894,
+  "repository_base_commit": "ebef52499948f6101b3e244c07c634ea1339a9e3",
+  "repository_base_blob": "9b32344b00965171e61e960935999ac0d8f7edba",
+  "added_vs_repository": 0,
+  "removed_vs_repository": 5,
+  "semantic_review": {
+    "scope": "two- or three-character strings ending in 官",
+    "reviewed": 71,
+    "kept": 66,
+    "removed": 5,
+    "audit": "audit/guan_endings_v106.json"
+  },
+  "new_global_character_rules": {},
   "unanswered_user_forms": 0,
   "active_semantic_holds": 0,
   "whole_project_all_possible_names_complete": false,
   "all_entries_individually_human_identity_verified": false,
   "complete_tentative_user_readings_retained_with_private_provenance": true,
-  "public_payload_contains_local_paths_user_feedback_or_book_scans": false,
-  "terminal_normalization": {
-    "儞": "你"
-  },
-  "normalization_affected_names": 25,
-  "normalization_exact_merges": 1
+  "public_payload_contains_local_paths_user_feedback_or_book_scans": false
 }
