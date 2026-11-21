@@ -1,0 +1,42 @@
+{
+  "version": "v108",
+  "date": "2026-11-21",
+  "name": "卢照隣",
+  "decision": "remove",
+  "category": "中国唐代诗人引文误收",
+  "reason": "承政院原文明确盧照隣为《长安古意》作者并说唐时长安，另一篇为王杨卢骆、唐之四子及裴行俭器识之论；官方原注以盧照隣/盧照鄰互证同一唐朝诗人。未取得独立完整韩国同名正证，按既定人物范围排除。索引关联所指清楚，本次属于中国人物范围误收，未把它判为姓名裁切或OCR错误。",
+  "QA_exact_deletions": [
+    "卢照隣"
+  ],
+  "exact_excluded_spellings": [
+    "卢照隣",
+    "卢照邻"
+  ],
+  "global_character_rules_changed": false,
+  "source_urls": [
+    "https://sjw.history.go.kr/id/SJW-H19040060-02200",
+    "https://sjw.history.go.kr/id/SJW-K04090050-01500",
+    "https://sillok.history.go.kr/popup/print.do?gubun=kor&id=wua_10908023_003",
+    "https://encykorea.aks.ac.kr/Article/E0013916",
+    "https://db.history.go.kr/ancient/level.do?levelId=ko_090_0140_0020",
+    "https://db.history.go.kr/ancient/level.do?levelId=sg_032r_0030_0090",
+    "https://db.history.go.kr/id/ko_035_0840_0020"
+  ],
+  "original_context_excerpts": [
+    {
+      "article": "SJW-H19040060-02200",
+      "source_url": "https://sjw.history.go.kr/id/SJW-H19040060-02200",
+      "quote": "仍下詢古意誰作也? 宗琦對曰, 盧照隣作也, 又下詢古意, 指何而作乎? 宗琦曰, 卽唐時長安之景也。",
+      "interpretation": "直接点明《长安古意》作者及唐代长安，人物是唐朝诗人。",
+      "paragraph_sha256": "5051dd677999bcca4a7f75ca2066e8063ce1eb04a4692b7c018e0d01de79ac42"
+    },
+    {
+      "article": "SJW-K04090050-01500",
+      "source_url": "https://sjw.history.go.kr/id/SJW-K04090050-01500",
+      "quote": "王·楊·盧·駱, 當世稱傑, 而畢竟成敗, 不出於裵行儉先見之明。……夫唐之四子，豈不誠當世之文章才士耶？",
+      "interpretation": "正文省姓盧的索引关联为盧照隣，语境讨论初唐四杰，并非韩国当时人物。",
+      "paragraph_sha256": "facf1faa9d4d0825dbe8ba8c7e9baabf722d724797fffa1fc0604033ab61f017"
+    }
+  ],
+  "other_Korean_homonym_search_result": "对隣/鄰/邻及韩文写法检索，现存1193份原源文字缓存、两份官方文科合格者与亲属工作簿及20项官网/人物库检索未获独立完整韩国人物正证。检索范围有界，将来取得独立完整韩国同名正证可重新裁定。"
+}

@@ -1,21 +1,23 @@
 {
-  "version": "v106",
-  "date": "2026-11-03",
-  "QA_version": "v076",
-  "name_count": 360098,
-  "sha256": "33fe609864c88f816b8c9627507e66749c6ae1d90486a2fbc1d1c95620bb28ed",
+  "version": "v108",
+  "date": "2026-11-21",
+  "QA_version": "v077",
+  "name_count": 360097,
+  "sha256": "be289cfe1b34e3404c59aeddd323c50cc58624a23429c644f094f68709ce7cba",
   "encoding": "UTF-8 without BOM",
   "newline": "CRLF",
-  "repository_base_commit": "ebef52499948f6101b3e244c07c634ea1339a9e3",
-  "repository_base_blob": "9b32344b00965171e61e960935999ac0d8f7edba",
+  "repository_base_commit": "7731e8cfa4e82ea73b8ed58e2b86dd2397456672",
+  "repository_base_blob": "c82c1374290f3fb2bfc97bdb15b3ccdc5d8477ba",
   "added_vs_repository": 0,
-  "removed_vs_repository": 5,
+  "removed_vs_repository": 1,
   "semantic_review": {
-    "scope": "two- or three-character strings ending in 官",
-    "reviewed": 71,
-    "kept": 66,
-    "removed": 5,
-    "audit": "audit/guan_endings_v106.json"
+    "target": "卢照隣",
+    "decision": "remove",
+    "audit": "audit/lu_zhaolin_v108.json",
+    "exact_excluded_spellings": [
+      "卢照隣",
+      "卢照邻"
+    ]
   },
   "new_global_character_rules": {},
   "unanswered_user_forms": 0,
