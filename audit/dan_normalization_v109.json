@@ -1,0 +1,152 @@
+{
+  "version": "v109",
+  "rule": {
+    "耼": "聃"
+  },
+  "QA_before": 360097,
+  "QA_after": 360074,
+  "exact_merges": 23,
+  "semantic_deletions": 0,
+  "changes": [
+    {
+      "old": "俞汉耼",
+      "new": "俞汉聃",
+      "already_in_QA": false
+    },
+    {
+      "old": "俞耼柱",
+      "new": "俞聃柱",
+      "already_in_QA": true
+    },
+    {
+      "old": "具修耼",
+      "new": "具修聃",
+      "already_in_QA": false
+    },
+    {
+      "old": "具寿耼",
+      "new": "具寿聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "卢时耼",
+      "new": "卢时聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "尹耼老",
+      "new": "尹聃老",
+      "already_in_QA": true
+    },
+    {
+      "old": "徐命耼",
+      "new": "徐命聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "慎后耼",
+      "new": "慎后聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "朴耼龄",
+      "new": "朴聃龄",
+      "already_in_QA": true
+    },
+    {
+      "old": "权耼",
+      "new": "权聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李之耼",
+      "new": "李之聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李后耼",
+      "new": "李后聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李命耼",
+      "new": "李命聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李喜耼",
+      "new": "李喜聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李时耼",
+      "new": "李时聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李景耼",
+      "new": "李景聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李治耼",
+      "new": "李治聃",
+      "already_in_QA": false
+    },
+    {
+      "old": "李珍耼",
+      "new": "李珍聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李硕耼",
+      "new": "李硕聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "李耼命",
+      "new": "李聃命",
+      "already_in_QA": true
+    },
+    {
+      "old": "李耼锡",
+      "new": "李聃锡",
+      "already_in_QA": true
+    },
+    {
+      "old": "李耼龄",
+      "new": "李聃龄",
+      "already_in_QA": true
+    },
+    {
+      "old": "柳景耼",
+      "new": "柳景聃",
+      "already_in_QA": false
+    },
+    {
+      "old": "柳耼寿",
+      "new": "柳聃寿",
+      "already_in_QA": true
+    },
+    {
+      "old": "申耼龄",
+      "new": "申聃龄",
+      "already_in_QA": false
+    },
+    {
+      "old": "许耼",
+      "new": "许聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "金永耼",
+      "new": "金永聃",
+      "already_in_QA": true
+    },
+    {
+      "old": "黄寿耼",
+      "new": "黄寿聃",
+      "already_in_QA": true
+    }
+  ]
+}
