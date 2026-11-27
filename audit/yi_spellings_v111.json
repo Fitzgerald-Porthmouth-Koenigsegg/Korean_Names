@@ -1,0 +1,71 @@
+{
+  "spellings": [
+    "异海行",
+    "异海衍"
+  ],
+  "source_spellings": [
+    "異海行",
+    "異海衍"
+  ],
+  "both_spellings_accepted": true,
+  "unique_original_spelling_established": false,
+  "decision": "承政院三日四处手稿和丁丑进馔仪轨印本都写異海行，丁亥进馔仪轨印本写異海衍。同日五卫将记录的其余四人一致，可以认定是同一五卫将的两种写法。两种原字都有史料依据，目前无法判定唯一正写，两写并列收录。",
+  "sources": [
+    {
+      "source": "承政院日记，高宗十四年十二月二十日，五卫将请辞",
+      "folio": "045b",
+      "witness": "手稿写異海行",
+      "url": "https://kyudb.snu.ac.kr/ImageServlet.do?imgFileNm=GK12788_00IB2845_045b.jpg&path=%2Fdata01%2Fstream%2FSJW%2FIMG%2FGK12788_00%2FGK12788_00_2845%2FGK12788_00IB2845_045b.jpg"
+    },
+    {
+      "source": "承政院日记，同日五卫将除授",
+      "folio": "048b",
+      "witness": "手稿写異海行，电子转录写異海衍。另四人均为尹正默、李泰相、安種植、廉志善",
+      "url": "https://kyudb.snu.ac.kr/ImageServlet.do?imgFileNm=GK12788_00IB2845_048b.jpg&path=%2Fdata01%2Fstream%2FSJW%2FIMG%2FGK12788_00%2FGK12788_00_2845%2FGK12788_00IB2845_048b.jpg",
+      "transcription_url": "https://sjw.history.go.kr/id/SJW-K14120200-04900"
+    },
+    {
+      "source": "丁丑进馔仪轨座目，奎章阁 GK14376_00",
+      "folio": "006a，右起第五姓名栏",
+      "witness": "印本作嘉義異海行，奎章阁电子转录作嘉義異海衍",
+      "url": "https://kyudb.snu.ac.kr/ImageServlet.do?imgFileNm=GK14376_00_IL_0001_006a.jpg&path=%2Fdata01%2Fstream%2FGAE%2FIMG%2FGK14376_00%2FGK14376_00_0001%2FGK14376_00_IL_0001_006a.jpg",
+      "transcription_url": "https://kyudb.snu.ac.kr/book/text.do?book_cd=GK14376_00"
+    },
+    {
+      "source": "丁亥进馔仪轨座目，国立中央图书馆藏印本",
+      "folio": "印页8，PDF第10页右起第三姓名栏",
+      "witness": "印本写正憲異海衍",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CNTS-00060571349_1_%E9%80%B2%E9%A5%8C%E5%84%80%E8%BB%8C._%E5%8D%B7%E9%A6%96%2C_2-3.pdf#page=10"
+    },
+    {
+      "source": "承政院日记，高宗十五年正月十六日，同知委任",
+      "folio": "2846卷044a，右起第六栏中上",
+      "witness": "手稿写同知單異海行，电子转录写異海衍",
+      "url": "https://kyudb.snu.ac.kr/ImageServlet.do?imgFileNm=GK12788_00IB2846_044a.jpg&path=%2Fdata01%2Fstream%2FSJW%2FIMG%2FGK12788_00%2FGK12788_00_2846%2FGK12788_00IB2846_044a.jpg",
+      "transcription_url": "https://sjw.history.go.kr/id/SJW-K15010160-02300"
+    },
+    {
+      "source": "承政院日记，高宗十七年六月初十，看役奖叙",
+      "folio": "2876卷020b，最左正文栏上半",
+      "witness": "手稿写看役異海行等十七人，电子转录写異海衍",
+      "url": "https://kyudb.snu.ac.kr/ImageServlet.do?imgFileNm=GK12788_00IB2876_020b.jpg&path=%2Fdata01%2Fstream%2FSJW%2FIMG%2FGK12788_00%2FGK12788_00_2876%2FGK12788_00IB2876_020b.jpg",
+      "transcription_url": "https://sjw.history.go.kr/id/SJW-K17060100-02400"
+    }
+  ],
+  "search_result": "查对上述官书、手稿和仪轨，以及以两种汉字全名检索谱牒、署名与改名线索，未找到能裁决唯一正写的本人署名、改名文书或明确校记。现代各处写衍的转录与原件有出入，不能按转录命中次数判断正写。",
+  "scope": "仅处理这一对完整姓名写法。",
+  "version": "v111",
+  "date": "2026-11-28",
+  "QA_before": 360071,
+  "QA_after": 360072,
+  "JSON_before": 360477,
+  "JSON_after": 360478,
+  "QA_sha256": "7b92d36c25d178ad614c371c6c6c2f0a7355ea6c4f15e9ea05fca116c1cc0b1c",
+  "restored": [
+    "异海行"
+  ],
+  "retained": [
+    "异海衍"
+  ],
+  "previous_review": "audit/wenhan_yihaixing_xian_v110.json"
+}

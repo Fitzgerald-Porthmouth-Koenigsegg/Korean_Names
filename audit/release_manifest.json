@@ -1,28 +1,27 @@
 {
-  "version": "v110",
+  "version": "v111",
   "date": "2026-11-28",
-  "QA_version": "v079",
-  "name_count": 360071,
-  "sha256": "038d8240aa8c0b013a2624f8dc29e103ed8b1b1b055ad12bd205c17bc7d33923",
+  "QA_version": "v080",
+  "name_count": 360072,
+  "sha256": "7b92d36c25d178ad614c371c6c6c2f0a7355ea6c4f15e9ea05fca116c1cc0b1c",
   "encoding": "UTF-8 without BOM",
   "newline": "CRLF",
-  "repository_base_commit": "79232a7754ab3bf8d2fbfbafa8f35e60a96c3ee7",
-  "repository_base_blob": "2b5f3c3e9969e163188ce990c212169501023e58",
-  "added_vs_repository": 14,
-  "removed_vs_repository": 17,
-  "new_global_character_rules": {
-    "灦": "湿"
-  },
-  "normalization_affected_names": 16,
-  "normalization_exact_merges": 2,
-  "semantic_removals": [
-    "异海行"
-  ],
-  "audit": "audit/wenhan_yihaixing_xian_v110.json",
+  "repository_base_commit": "0f55d62512487bd38b50b6a34c8049d465095080",
+  "repository_base_blob": "6d4aaca8d3ac848f8d8c9518acbbbf970df3e64d",
+  "added_vs_repository": 1,
+  "removed_vs_repository": 0,
+  "new_global_character_rules": {},
+  "normalization_affected_names": 0,
+  "normalization_exact_merges": 0,
+  "semantic_removals": [],
+  "audit": "audit/yi_spellings_v111.json",
   "unanswered_user_forms": 0,
   "active_semantic_holds": 0,
   "whole_project_all_possible_names_complete": false,
   "all_entries_individually_human_identity_verified": false,
   "complete_tentative_user_readings_retained_with_private_provenance": true,
-  "public_payload_contains_local_paths_user_feedback_or_book_scans": false
+  "public_payload_contains_local_paths_user_feedback_or_book_scans": false,
+  "restored_spellings": [
+    "异海行"
+  ]
 }
