@@ -1,23 +1,28 @@
 {
-  "version": "v109",
-  "date": "2026-11-22",
-  "QA_version": "v078",
-  "name_count": 360074,
-  "sha256": "55a9022a33b3591ce69e345411f2f65bbdcd66cc39fe9caad86e89af90b9bd92",
+  "version": "v110",
+  "date": "2026-11-28",
+  "QA_version": "v079",
+  "name_count": 360071,
+  "sha256": "038d8240aa8c0b013a2624f8dc29e103ed8b1b1b055ad12bd205c17bc7d33923",
   "encoding": "UTF-8 without BOM",
   "newline": "CRLF",
-  "repository_base_commit": "6d151aba4e2882ca9ef4aef83a8ad40ba24957b3",
-  "repository_base_blob": "6aedb423ad7f061d11774f3aab3ad529e68e3812",
-  "added_vs_repository": 5,
-  "removed_vs_repository": 28,
+  "repository_base_commit": "79232a7754ab3bf8d2fbfbafa8f35e60a96c3ee7",
+  "repository_base_blob": "2b5f3c3e9969e163188ce990c212169501023e58",
+  "added_vs_repository": 14,
+  "removed_vs_repository": 17,
   "new_global_character_rules": {
-    "耼": "聃"
+    "灦": "湿"
   },
+  "normalization_affected_names": 16,
+  "normalization_exact_merges": 2,
+  "semantic_removals": [
+    "异海行"
+  ],
+  "audit": "audit/wenhan_yihaixing_xian_v110.json",
   "unanswered_user_forms": 0,
   "active_semantic_holds": 0,
   "whole_project_all_possible_names_complete": false,
   "all_entries_individually_human_identity_verified": false,
   "complete_tentative_user_readings_retained_with_private_provenance": true,
-  "public_payload_contains_local_paths_user_feedback_or_book_scans": false,
-  "normalization_audit": "audit/dan_normalization_v109.json"
+  "public_payload_contains_local_paths_user_feedback_or_book_scans": false
 }

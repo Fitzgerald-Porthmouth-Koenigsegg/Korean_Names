@@ -1,0 +1,127 @@
+{
+  "version": "v110",
+  "date": "2026-11-28",
+  "rule": {
+    "灦": "湿"
+  },
+  "review": [
+    {
+      "name": "文翰",
+      "decision": "keep",
+      "category": "独立完整韩国姓名",
+      "reason": "《國朝人物考》所收《文德敎墓誌銘》记开宁文氏文德教的祖父翰为成均生员，韩国学中央研究院记其全名为文翰。《承政院日记》D02040240-01100在数次写出巡将鄭文翰后省称文翰，该处仍归郑文翰。",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/國朝人物考/卷三十#文德敎墓誌銘",
+        "https://encykorea.aks.ac.kr/Article/E0019441",
+        "https://sjw.history.go.kr/id/SJW-D02040240-01100"
+      ]
+    },
+    {
+      "name": "异海行",
+      "decision": "remove",
+      "category": "同一五卫将的异记归并",
+      "reason": "高宗十四年十二月二十日的请辞和除授记录列出同一组五卫将，另四人均为尹正默、李泰相、安种植、廉志善。两段手稿写異海行，除授条电子转录作異海衍，翌年同知记录转录亦作異海衍。《进馔仪轨》座目书影印作異海衍。本名单采用仪轨的写法，异海行作为史料异记保留出处。",
+      "canonical_entry": "异海衍",
+      "source_urls": [
+        "https://sjw.history.go.kr/id/SJW-K14120200-03300",
+        "https://sjw.history.go.kr/id/SJW-K14120200-04900",
+        "https://sjw.history.go.kr/id/SJW-K15010160-02300",
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/CNTS-00060571349_1_%E9%80%B2%E9%A5%8C%E5%84%80%E8%BB%8C._%E5%8D%B7%E9%A6%96%2C_2-3.pdf#page=10"
+      ]
+    },
+    {
+      "name": "异海衍",
+      "decision": "keep",
+      "category": "仪轨书影所载完整姓名",
+      "reason": "《进馔仪轨》座目书影印有正宪品衔及完整姓名異海衍（纸本第8页，PDF第10页右起第三姓名栏）。承政院同批五卫将除授与后续同知记录的转录有異海衍，沿用名单已收写法。",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fd/CNTS-00060571349_1_%E9%80%B2%E9%A5%8C%E5%84%80%E8%BB%8C._%E5%8D%B7%E9%A6%96%2C_2-3.pdf#page=10",
+        "https://sjw.history.go.kr/id/SJW-K14120200-04900",
+        "https://sjw.history.go.kr/id/SJW-K15010160-02300"
+      ]
+    }
+  ],
+  "normalization_changes": [
+    {
+      "old": "安明灦",
+      "new": "安明湿",
+      "merged": false
+    },
+    {
+      "old": "尹松灦",
+      "new": "尹松湿",
+      "merged": false
+    },
+    {
+      "old": "尹灦",
+      "new": "尹湿",
+      "merged": false
+    },
+    {
+      "old": "崔灦",
+      "new": "崔湿",
+      "merged": false
+    },
+    {
+      "old": "张灦",
+      "new": "张湿",
+      "merged": false
+    },
+    {
+      "old": "徐灦淳",
+      "new": "徐湿淳",
+      "merged": false
+    },
+    {
+      "old": "朴灦",
+      "new": "朴湿",
+      "merged": false
+    },
+    {
+      "old": "李灦",
+      "new": "李湿",
+      "merged": true
+    },
+    {
+      "old": "李灦臣",
+      "new": "李湿臣",
+      "merged": false
+    },
+    {
+      "old": "沈之灦",
+      "new": "沈之湿",
+      "merged": false
+    },
+    {
+      "old": "申灦",
+      "new": "申湿",
+      "merged": false
+    },
+    {
+      "old": "金圣灦",
+      "new": "金圣湿",
+      "merged": false
+    },
+    {
+      "old": "金在灦",
+      "new": "金在湿",
+      "merged": false
+    },
+    {
+      "old": "金灦",
+      "new": "金湿",
+      "merged": true
+    },
+    {
+      "old": "闵灦",
+      "new": "闵湿",
+      "merged": false
+    },
+    {
+      "old": "黄灦",
+      "new": "黄湿",
+      "merged": false
+    }
+  ],
+  "exact_merges": 2
+}
